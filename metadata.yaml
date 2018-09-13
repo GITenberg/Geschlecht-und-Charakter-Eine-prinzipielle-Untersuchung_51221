@@ -1,0 +1,28 @@
+_repo: Geschlecht-und-Charakter-Eine-prinzipielle-Untersuchung_51221
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Weininger, Otto
+    birthdate: 1880
+    deathdate: 1903
+    gutenberg_agent_id: '46310'
+    url: http://www.gutenberg.org/2009/agents/46310
+description: ''
+gutenberg_issued: '2016-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51221'
+  lccn: 03029246
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Character'
+- !lcc 'HQ'
+- !lcsh 'Sex (Psychology)'
+- !lcsh 'Sex'
+- !lcsh 'Sexual ethics'
+- GITenberg
+title: 'Geschlecht und Charakter: Eine prinzipielle Untersuchung'
+url: http://www.gutenberg.org/ebooks/51221
